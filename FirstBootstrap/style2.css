@@ -1,0 +1,32 @@
+*{
+    margin:0%;
+    padding:0%;
+
+}
+body{
+    background-color:black;}
+
+/* .shop1{
+    display:flex;
+    flex-direction:column;
+    width:100%;
+} */
+.hari{
+    background-color:pink;
+
+}
+.card-body1{
+    background-color: rgb(250, 207, 214);
+}
+
+
+/* carousel-item1{
+    display: flex;
+justify-content: center;
+
+}  */
+footer{
+    background-color: aquamarine;
+}
+
+

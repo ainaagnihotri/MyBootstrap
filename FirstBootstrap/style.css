@@ -1,0 +1,51 @@
+ /* content section */
+ *{
+   
+   
+    margin: 0%;
+    padding: 0%;
+ }
+ html{
+   background-color: black;
+ }
+ #content{
+    display: flex;
+    height:200px;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    
+ }
+ body{
+    
+    position :absolute;
+    background:url(images123/Gif2.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100%;
+    width:100%;
+    /* z-index:-1; */
+    opacity:0.8;}
+    
+    #write{
+        font-weight: 300;
+        /* font-size:5vw ; */
+    }
+    #write1{
+        font-weight: 500;
+       /* font-size: 2vw; */
+    }
+    .tooltip {
+      --bs-tooltip-bg: var(--bs-primary);
+    }
+    footer{
+      display: flex;
+      width:100%;
+      position:absolute;
+      bottom:0;
+      
+      /* line-height: 20px; */
+    }
+    #ad{
+      color: rgb(152, 112, 187);
+    }
